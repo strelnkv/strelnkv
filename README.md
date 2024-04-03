@@ -2,7 +2,7 @@
 
 ## 👻 About Me
 
-I'm a budding Front-End Developer from Tomsk, a small town in the Siberia, Russia. My journey in coding is just beginning, and I'm passionate about crafting responsive and dynamic web applications using JavaScript, React, HTML, and CSS. Additionally, I have completed a course in web design, enhancing my expertise with tools like Photoshop and Figma to bring creative ideas to life with a keen eye for design.
+I'm a budding Front-End Developer from Tomsk, a small town in Siberia, Russia. My journey in coding is just beginning, and I'm passionate about crafting responsive and dynamic web applications using JavaScript, React, HTML, and CSS. Additionally, I have completed a course in web design, enhancing my expertise with tools like Photoshop and Figma to bring creative ideas to life with a keen eye for design.
 
 ## 🔭 Languages and Tools
 
